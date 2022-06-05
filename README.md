@@ -23,7 +23,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Amazon Web Services $ Kubernetes.
+- :seedling: Exploring Amazon Web Services & Kubernetes.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
